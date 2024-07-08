@@ -11,12 +11,12 @@ Feature Selection and Engineering: Choose relevant features (input variables) th
 
 Model Selection: Select a classification algorithm or model suitable for your dataset and problem. Common algorithms include:
 
-Logistic Regression
-Decision Trees
-Random Forests
-Support Vector Machines (SVM)
-k-Nearest Neighbors (k-NN)
-Neural Networks
+#1-Logistic Regression
+#2-Decision Trees
+#3-Random Forests
+#4-Support Vector Machines (SVM)
+#5-k-Nearest Neighbors (k-NN)
+#6-Neural Networks
 Training: Split your dataset into training and validation sets. Train the chosen model using the training set, where the model learns patterns and relationships between features and class labels.
 
 Evaluation: Evaluate the trained model using the validation set (and possibly a test set). Common evaluation metrics for classification models include accuracy, precision, recall, F1-score, and ROC curve/AUC.
