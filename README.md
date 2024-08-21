@@ -10,8 +10,8 @@ Data Collection and Preparation: Gather a dataset that includes examples of the 
 Feature Selection and Engineering: Choose relevant features (input variables) that are informative for predicting the target variable (class label). Feature engineering may involve creating new features or transforming existing ones to improve model performance.
 
 # Model Selection: Select a classification algorithm or model suitable for your dataset and problem. Common algorithms include:
-
-1-Logistic Regression
+<\br>
+1-Logistic Regression<\br>
 2-Decision Trees
 3-Random Forests
 4-Support Vector Machines (SVM)
